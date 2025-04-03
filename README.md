@@ -1,6 +1,6 @@
 # Dataset Generator 🧩
 
-![Dataset Generator Interface](./images/AI_dataset.png)
+![Dataset Generator Interface](./AI_dataset.png)
 
 A powerful tool for creating custom datasets using state-of-the-art LLMs from Hugging Face. Perfect for AI developers and researchers needing high-quality training data.
 
