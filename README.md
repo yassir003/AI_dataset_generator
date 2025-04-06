@@ -4,6 +4,9 @@
 
 A powerful tool for creating custom datasets using state-of-the-art LLMs from Hugging Face. Perfect for AI developers and researchers needing high-quality training data.
 
+### Colab:
+https://colab.research.google.com/drive/1OBwq5mZGO9T-YCAGeR7zw_JiDIAD-eT3?usp=sharing
+
 ## 🌟 Features
 
 - **Multi-Format Output**: Generate datasets in JSON, CSV, or JSONL formats
